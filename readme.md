@@ -9,7 +9,7 @@
 <br>
 
 ### using symbols you can tell what form of link it is
-### 📄 artikle/pdf/paper
+### 📄 article/pdf/paper
 ### 🎥 video (usually on YouTube)
 ### ✅ quiz or coding practice
 ### 👾 github repo
