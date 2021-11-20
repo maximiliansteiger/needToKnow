@@ -1,0 +1,13 @@
+https://en.wikipedia.org/wiki/KISS_principle
+https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+https://en.wikipedia.org/wiki/Minimalism_(computing)
+https://en.wikipedia.org/wiki/Unix_philosophy
+https://en.wikipedia.org/wiki/Arch_Linux
+https://en.wikipedia.org/wiki/Slackware
+https://en.wikipedia.org/wiki/Chartjunk
+https://en.wikipedia.org/wiki/List_of_software_development_philosophies
+https://en.wikipedia.org/wiki/Reduced_instruction_set_computer
+https://en.wikipedia.org/wiki/Rule_of_least_power
+https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it
+https://en.wikipedia.org/wiki/Worse_is_better
+https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
