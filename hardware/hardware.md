@@ -47,7 +47,7 @@
 
 # CPU
 
-## A CPU or Central Processing Unit is like the brain of the computer. It gets the input (1s and 0s) and culculates all day long. The biggest Manufacturers are Intel and AMD which you probaply already know. 
+## A CPU or Central Processing Unit is like the brain of the computer. It gets the input (1s and 0s) and culculates all day long. The biggest Manufacturers are Intel and AMD which you probably already know. 
 
 <br>
 
