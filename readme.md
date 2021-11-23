@@ -4,12 +4,12 @@
 
 <br>
 
-### Every topic is structured as follows: A brief explanation at the beginning of each topic is kept as [short and simple as possible](https://en.wikipedia.org/wiki/KISS_principle). After reading it you should get a brief insight and understanding what it is about. Further information will be stored in a separate file, so the readme is readable. When clicking the "read more" link you will be redirected to the file about the topic. In this file you will find more information about the topic and links to other repos or external sources. Usually threre will be videos and artikle that dive deep in a certain subject. Some sections have a quiz to check if you know everything you shoud know.  
+### Every topic is structured as follows: A brief explanation at the beginning of each topic is kept as [short and simple as possible](https://en.wikipedia.org/wiki/KISS_principle). After reading it you should get a brief insight and understanding what it is about. Further information will be stored in a separate file, so the readme is readable. When clicking the "read more" link you will be redirected to the file about the topic. In this file you will find more information and links to other repos or external sources. Usually threre will be videos and artikle that dive deep in a certain subject. Some sections have a quiz to check if you know everything you shoud know.  
 
 <br>
 
 ### using symbols you can tell what form of link it is
-### 📄 artikle/pdf/paper
+### 📄 article/pdf/paper
 ### 🎥 video (usually on YouTube)
 ### ✅ quiz or coding practice
 ### 👾 github repo
