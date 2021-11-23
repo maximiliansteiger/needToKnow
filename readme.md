@@ -32,7 +32,8 @@
 
 ## [codeGrepper](https://www.codegrepper.com/): very very usefull tool
 ## [Karel the Robot](https://github.com/fredoverflow/karel): simple "game" to learn the logic of programming
-
+## [audio alter](https://audioalter.com/):change audio => 3D (8D) audio, remove voice or change the audo
+## [spik](https://spik.ai/):free text to speech
 
 <br>
 
